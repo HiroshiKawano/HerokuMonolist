@@ -7,6 +7,8 @@
 <p>・Want, Have された商品の一覧表示</p>
 <p>・Want, Have のランキング</>
 
+<img width="1280" alt="mono1" src="https://user-images.githubusercontent.com/39044771/48090853-57e74900-e24b-11e8-8e13-854025f76f49.png">
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
