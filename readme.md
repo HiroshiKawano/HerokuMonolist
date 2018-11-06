@@ -9,6 +9,9 @@
 
 <img width="1280" alt="mono1" src="https://user-images.githubusercontent.com/39044771/48090853-57e74900-e24b-11e8-8e13-854025f76f49.png">
 
+<img width="1160" alt="mono2" src="https://user-images.githubusercontent.com/39044771/48091066-01c6d580-e24c-11e8-91c9-ba52e39430dd.png">
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
