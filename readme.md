@@ -1,3 +1,12 @@
+# PHP+Laravel+楽天API
+<p>機能一覧</p>
+
+<p>・ユーザ登録／ログイン認証機能</p>
+<p>・楽天市場の商品検索</p>
+<p>・商品を Want, Have する</p>
+<p>・Want, Have された商品の一覧表示</p>
+<p>・Want, Have のランキング</>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
